@@ -6,4 +6,4 @@ VPNC in docker.
 
 ## Usage
 
-	docker run -t -d --name {name} satnami/vpnc
+	docker run -t -d --privileged --name {name} satnami/vpnc
